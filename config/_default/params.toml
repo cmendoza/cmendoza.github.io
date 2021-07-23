@@ -112,7 +112,7 @@ fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = "camendozag"
+disqus_shortname = "cmendozag"
 commento = false
 
 [telegram]
