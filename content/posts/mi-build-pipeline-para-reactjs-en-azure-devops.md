@@ -13,7 +13,7 @@ tags:
 Desde hace algunos años trabajo también con el front-end, primero usando jQuery y jQueryUI, AngularJS y Angular en tiempos más recientes (hace como 3 años).
 Últimamente he estado trabajando en un par de proyectos con ReactJS, pero solo en el más reciente me di a la tarea de crear un script para hacer el build con Azure DevOps.
 
-Es muy parecido al script que uso para Angular, aquí el script 👇
+Es muy parecido al script que uso para [Angular](/posts/mi-build-pipeline-para-angular-en-azuredevops), aquí el script 👇
 
 {{< codes yaml >}}
   {{< code >}}
