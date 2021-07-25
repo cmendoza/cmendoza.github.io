@@ -89,6 +89,6 @@ Notas acerca de este script:
 
 Y bueno, hasta este momento este es el estado actual de este script, puede que siga cambiando o que ahí se quede ya que ultimamente trabajo un poco más con ReactJS.
 
-¡Saludos!
+¡Saludos! ☕ 😉
 
 Carlos Mendoza

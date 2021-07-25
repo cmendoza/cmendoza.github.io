@@ -77,6 +77,6 @@ Como escribí más arriba es muy parecido al de Angular, así que solo comento l
 - **Línea 18.** Se crea un archivo .env que usa la aplicación, por ahora hay un único setting y un único ambiente.
 - **Línea 41.** Se publica el resultado del build, en el caso de ReactJS este cae en la carpeta 'build'.
 
-Este es el estado inicial de este script (aun así es funcional 😉), lo más seguro es que siga evolucionando ya que aun no se toman en cuenta diferentes settings y ambientes, todavia tengo camino por recorrer con ReactJS.
+Este es el estado inicial de este script (aun así es funcional 😁), lo más seguro es que siga evolucionando ya que aun no se toman en cuenta diferentes settings y ambientes, todavia tengo camino por recorrer con ReactJS.
 
-¡Saludos! ☕
+¡Saludos! ☕ 😉
