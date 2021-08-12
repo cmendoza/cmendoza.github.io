@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640" height="640" viewBox="0 0 640 640" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(3.7 0 0 3.7 496.33 218.33)"  >
+<g style=""   >
+		<g transform="matrix(0.11 0 0 0.11 -0.2 -0.25)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,216,255); fill-rule: evenodd; opacity: 1;"  cx="0" cy="0" r="50.167" />
+</g>
+		<g transform="matrix(0.11 0 0 0.11 -1.1 -0.44)"  >
+<path style="stroke: rgb(0,216,255); stroke-width: 24; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: evenodd; opacity: 1;"  transform=" translate(-269.53, -238.13)" d="M 269.53 135.628 c 67.356 0 129.928 9.665 177.107 25.907 c 56.844 19.57 91.794 49.233 91.794 76.093 c 0 27.99 -37.04 59.503 -98.083 79.728 c -46.15 15.29 -106.88 23.272 -170.818 23.272 c -65.554 0 -127.63 -7.492 -174.3 -23.44 c -59.046 -20.182 -94.61 -52.103 -94.61 -79.56 c 0 -26.642 33.37 -56.076 89.415 -75.616 c 47.355 -16.51 111.472 -26.384 179.486 -26.384 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.11 0 0 0.11 -0.69 -0.99)"  >
+<path style="stroke: rgb(0,216,255); stroke-width: 24; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: evenodd; opacity: 1;"  transform=" translate(-269.33, -237.99)" d="M 180.736 186.922 c 33.65 -58.348 73.28 -107.724 110.92 -140.48 C 337.006 6.976 380.163 -8.48 403.43 4.937 c 24.248 13.983 33.042 61.814 20.067 124.796 c -9.8 47.618 -33.234 104.212 -65.176 159.6 c -32.75 56.788 -70.25 106.82 -107.377 139.272 c -46.98 41.068 -92.4 55.93 -116.185 42.213 c -23.08 -13.3 -31.906 -56.92 -20.834 -115.233 c 9.355 -49.27 32.832 -109.745 66.8 -168.664 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.11 0 0 0.11 -0.64 -0.95)"  >
+<path style="stroke: rgb(0,216,255); stroke-width: 24; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: evenodd; opacity: 1;"  transform=" translate(-269.9, -238.37)" d="M 180.82 289.482 C 147.075 231.2 124.1 172.195 114.51 123.227 c -11.544 -59 -3.382 -104.11 19.864 -117.566 c 24.224 -14.024 70.055 2.244 118.14 44.94 c 36.356 32.28 73.688 80.837 105.723 136.173 c 32.844 56.733 57.46 114.21 67.036 162.582 c 12.117 61.213 2.31 107.984 -21.453 121.74 c -23.057 13.348 -65.25 -0.784 -110.24 -39.5 c -38.013 -32.71 -78.682 -83.253 -112.76 -142.115 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(0.83 0 0 0.83 148.94 219.73)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0.01 0.05)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(179,179,179); fill-rule: nonzero; opacity: 1;"  transform=" translate(-128.01, -135.05)" d="M 127.606 0.341 L 0.849 44.95 L 20.88 211.022 l 106.86 58.732 l 107.412 -59.528 L 255.175 44.16 L 127.606 0.341 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 56.92 0.1)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(166,18,13); fill-rule: nonzero; opacity: 1;"  transform=" translate(-184.92, -135.09)" d="M 242.532 53.758 L 127.31 14.466 v 241.256 l 96.561 -53.441 l 18.66 -148.523 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -56.81 0.09)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(221,27,22); fill-rule: nonzero; opacity: 1;"  transform=" translate(-71.19, -135.09)" d="M 15.073 54.466 l 17.165 148.525 l 95.07 52.731 V 14.462 L 15.074 54.465 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -24.02 -24.6)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(242,242,242); fill-rule: nonzero; opacity: 1;"  transform=" translate(-103.98, -110.4)" d="M 159.027 142.898 L 127.31 157.73 H 93.881 l -15.714 39.305 l -29.228 0.54 L 127.31 23.227 l 31.717 119.672 z m -3.066 -7.467 l -28.44 -56.303 l -23.329 55.334 h 23.117 l 28.652 0.97 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 40.3 -24.33)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(179,179,179); fill-rule: nonzero; opacity: 1;"  transform=" translate(-168.3, -110.66)" d="M 127.309 23.226 l 0.21 55.902 l 26.47 55.377 h -26.62 l -0.06 23.189 l 36.81 0.035 l 17.204 39.852 l 27.967 0.518 l -81.981 -174.873 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 322.42 454.63)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -8.11 -1.88)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="250" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-138.31" y="78.54" >IIS</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 0 129)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="25" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-171.92" y="7.85" >Internet Information Services</tspan></text>
+</g>
+</g>
+</g>
+</svg>
