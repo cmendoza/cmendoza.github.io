@@ -4,7 +4,7 @@ date          : 2021-07-23T11:06:08-05:00
 description   : Últimamente he estado trabajando en un par de proyectos con ReactJS, pero solo en el más reciente me di a la tarea de crear un script para hacer el deployment con Azure DevOps.
 author        : Carlos Mendoza
 enableWhoami  : false
-image         : images/posts/devops-pipelines.svg
+image         : images/posts/devops-pipelines-reactjs.png
 tags:
 - Azure DevOps
 - ReactJS

@@ -4,7 +4,7 @@ date         :   2021-07-20T18:52:36-05:00
 description  : Siempre que empiezo un proyecto en Angular y llega la hora de crear el build pipeline en Azure DevOps, siempre termino entrando a ver el pipeline de algún proyecto previo y copiándolo.
 author       : Carlos Mendoza
 enableWhoami : false
-image        : images/posts/devops-pipelines.svg
+image        : images/posts/devops-pipelines-angular.png
 tags:
 - Azure DevOps
 - Angular
